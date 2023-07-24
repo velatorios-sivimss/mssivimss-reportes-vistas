@@ -9,7 +9,7 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.imss.sivimss</groupId>
-	<artifactId>reportevistas</artifactId>
+	<artifactId>reportevista</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>ms reporte vistas</name>
 	<description>Ms reportes vistas</description>
